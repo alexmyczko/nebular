@@ -40,7 +40,7 @@ using namespace std;
 void usage()
 {
   cerr <<  "\n";
-  cerr <<  "  This is NEBULAR v1.1" << endl;
+  cerr <<  "  This is NEBULAR v1.2" << endl;
   cerr <<  "  ====================\n" << endl;
   cerr <<  "  PURPOSE: Calculates the nebular spectrum for a mixed hydrogen helium gas in" << endl;
   cerr <<  "           ionization equilibrium, including bound-free, free-free, two-photon" << endl;
